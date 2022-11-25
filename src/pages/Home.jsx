@@ -163,20 +163,20 @@ export default function Home() {
               <div className="quickContact__contactLinks mt-5 flex h-full flex-col gap-4 text-gray-primary md:gap-6">
                 <a
                   href="tel:8653554323"
-                  className="text-xl font-semibold underline decoration-2 underline-offset-4 md:text-2xl lg:text-3xl"
+                  className="text-lg font-semibold underline decoration-2 underline-offset-4 md:text-2xl lg:text-3xl"
                 >
                   WhatsApp
                 </a>
                 <a
                   href="tel:8653554323"
-                  className="text-xl font-semibold underline decoration-2 underline-offset-4 md:text-2xl lg:text-3xl"
+                  className="text-lg font-semibold underline decoration-2 underline-offset-4 md:text-2xl lg:text-3xl"
                 >
                   +91-86535-54323
                 </a>
 
                 <a
                   href="mailto:skyviewpublicschool@gmail.com"
-                  className="text-xl font-semibold underline decoration-2 underline-offset-4 md:text-2xl lg:text-3xl"
+                  className="text-lg font-semibold underline decoration-2 underline-offset-4 md:text-2xl lg:text-3xl"
                 >
                   skviewpublicschool@gmail.com
                 </a>

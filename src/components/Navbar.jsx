@@ -118,7 +118,7 @@ export default function Navbar() {
                         <div className="mt-6">
                           <p className="text-base text-gray-500">
                             Admissions are open for session 2023-24. Course
-                            admission is available from class Nursery to class
+                            admissions are available from class Nursery to class
                             V.{" "}
                             <span className="font-semibold underline decoration-2 underline-offset-4">
                               FREE demo classes
